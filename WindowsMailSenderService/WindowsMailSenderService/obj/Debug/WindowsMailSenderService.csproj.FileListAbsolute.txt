@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\bin\Debug\WindowsMailSenderService.exe.config
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\bin\Debug\WindowsMailSenderService.exe
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\bin\Debug\WindowsMailSenderService.pdb
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\bin\Debug\MailSender.dll
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\bin\Debug\MailSender.pdb
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.exe
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.pdb
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.ProjectInstaller.resources
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.csproj.GenerateResource.Cache
