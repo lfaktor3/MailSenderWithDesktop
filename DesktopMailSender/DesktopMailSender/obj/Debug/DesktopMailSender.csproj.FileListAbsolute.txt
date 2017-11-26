@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\bin\Debug\DesktopMailSender.exe.config
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.Form1.resources
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\bin\Debug\DesktopMailSender.exe
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\bin\Debug\DesktopMailSender.pdb
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\bin\Debug\MailSender.dll
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\bin\Debug\MailSender.pdb
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.exe
+C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.pdb
