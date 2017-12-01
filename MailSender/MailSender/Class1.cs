@@ -5,12 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Mail;
 using System.Net;
-/*Napisati dll koji služi za slanje mailova. Jednom kreirani dll možemo koristiti za sve buduće
-vježbe u kojima će biti potrebno postali email. Projekt tipa Class Library nazvati MailSender.
-Imenski prostor nazvati MailSender a klasu nazvati MailClient. Klasa sadrži sljedeće podatkovne
-članove: sSmptClient, sUsername, sPassword, nPort te funkcijski član SendEmail koji ima tri 
-parametra: sEmail (email račun na kojeg se šalje mail), sSubject (naslov e-maila), sBody (tijelo
-poruke).*/
+
+
+
+
+
 namespace MailSender
 {
     public class MailClient

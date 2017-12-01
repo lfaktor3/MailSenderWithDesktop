@@ -9,3 +9,6 @@ C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSend
 C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\bin\Debug\MailSender.pdb
 C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.exe
 C:\Users\Korisnik\Desktop\DotNETgit\MailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.pdb
+C:\Users\Luka\Desktop\Faks\3.Semestar\Programiranje u .NET okolini\DesktopMailSender\DesktopMailSender\DesktopMailSender\bin\Debug\DesktopMailSender.exe.config
+C:\Users\Luka\Desktop\Faks\3.Semestar\Programiranje u .NET okolini\DesktopMailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.exe
+C:\Users\Luka\Desktop\Faks\3.Semestar\Programiranje u .NET okolini\DesktopMailSender\DesktopMailSender\DesktopMailSender\obj\Debug\DesktopMailSender.pdb

@@ -8,3 +8,6 @@ C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderServi
 C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.pdb
 C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.ProjectInstaller.resources
 C:\Users\Korisnik\Desktop\DotNETgit\MailSender\MailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.csproj.GenerateResource.Cache
+C:\Users\Luka\Desktop\Faks\3.Semestar\Programiranje u .NET okolini\DesktopMailSender\WindowsMailSenderService\WindowsMailSenderService\bin\Debug\WindowsMailSenderService.exe.config
+C:\Users\Luka\Desktop\Faks\3.Semestar\Programiranje u .NET okolini\DesktopMailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.exe
+C:\Users\Luka\Desktop\Faks\3.Semestar\Programiranje u .NET okolini\DesktopMailSender\WindowsMailSenderService\WindowsMailSenderService\obj\Debug\WindowsMailSenderService.pdb

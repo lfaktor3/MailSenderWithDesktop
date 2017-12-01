@@ -33,24 +33,24 @@ namespace WindowsMailSenderService
         public static void ScheduleService()
         {
             MailClient Klijent = new MailClient();
-            // Objekt klase Timer
+
             Timer Schedular = new Timer(new TimerCallback(SchedularCallback));
-            // Postavljanje vremena 'po defaultu'
+
             DateTime scheduledTime = DateTime.MinValue;
             int intervalMinutes = 10;
-            // Postavljanje vremena zapisa u trenutno vrijeme + 10 minuta
+
             scheduledTime = DateTime.Now.AddMinutes(intervalMinutes);
             if (DateTime.Now > scheduledTime)
             {
                 scheduledTime = scheduledTime.AddMinutes(intervalMinutes);
             }
-            // Vremenski interval
+
             TimeSpan timeSpan = scheduledTime.Subtract(DateTime.Now);
             string schedule = string.Format("{0} day(s) {1} hour(s) {2} minute(s) {3}  seconds(s)", timeSpan.Days, timeSpan.Hours, timeSpan.Minutes, timeSpan.Seconds);
-            Klijent.SendEmail("barbara.strapac@vsmti.hr", "MailServiceSender", Convert.ToString(schedule));
-            //Razlika između trenutnog vremena i planiranog vremena
+            Klijent.SendEmail("luka.faktor@vsmti.hr", "MailServiceSender", Convert.ToString(schedule));
+
             int dueTime = Convert.ToInt32(timeSpan.TotalMilliseconds);
-            // Promjena vremena izvršavanja metode povratnog poziva.
+
             Schedular.Change(dueTime, Timeout.Infinite);
         }
         private static void SchedularCallback(object e)

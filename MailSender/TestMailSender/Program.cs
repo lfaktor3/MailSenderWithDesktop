@@ -12,7 +12,7 @@ namespace TestMailSender
         static void Main(string[] args)
         {
             MailClient Klijent = new MailClient();
-            Klijent.SendEmail("barbara.strapac@vsmti.hr", "Poruka", "Pokušaj! :D ");
+            Klijent.SendEmail("luka.faktor@vsmti.hr", "Proba", "Test");
             Console.ReadKey();
         }
     }
